@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/luxury-nightmare/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Luxury Nightmare](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luxury-nightmare/) |
+| **Get License** | [Get a Licensing Quote for Luxury Nightmare](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luxury-nightmare/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Kaale tere nain mainu crazy karde,
+> Takda main kalla munde fly marde,
+> Zulfan di chhan thalle hide kalla main,
+> Tere piche sohniye ni blind challa main.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
